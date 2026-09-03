@@ -13,8 +13,8 @@ I am currently a master's student at the University of São Paulo (USP).
 
 <div align="center">
   <a href="https://github.com/Vinicius-M-Marrafon">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-M-Marrafon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-M-Marrafon&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gambs-theory&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gambs-theory&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 <p align="center">
