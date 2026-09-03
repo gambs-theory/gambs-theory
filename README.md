@@ -11,6 +11,12 @@ I am currently a master's student at the University of São Paulo (USP).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+<div align="center">
+  <a href="https://github.com/Vinicius-M-Marrafon">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-M-Marrafon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-M-Marrafon&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" alt="INO"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="BASH"/>
